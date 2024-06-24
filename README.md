@@ -10,7 +10,7 @@ This script provides a graphical user interface to automate the process of setti
 
 ### Notes
 - Adjust the script parameters and paths according to your local environment setup.
-- Ensure XAMPP and MySQL are correctly installed and configured before running this script.
+- Ensure you're local dev env. is set up with PHP and MySQL and they are correctly installed and configured before running this script.
 - **Run as Admin.**
 
 ### Features
