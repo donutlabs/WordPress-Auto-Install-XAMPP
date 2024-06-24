@@ -23,7 +23,7 @@ This script provides a graphical user interface to automate the process of setti
 ### Usage
 
 1. **Install Dependencies:**
-    - Ensure you have XAMPP installed.
+    - Ensure you have XAMPP installed or other env. dependecies if you aren't using Xampp like in the example.
     - Make sure PowerShell is available on your system.
 
 2. **Modify the Script for XAMPP:**
